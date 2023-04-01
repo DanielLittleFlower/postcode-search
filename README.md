@@ -64,8 +64,9 @@ This table should have three columns: postcode, latitude, and longitude. The pos
 
 The script assumes that the following constants are defined:
 
-POSTCODES_URL: The URL of the ZIP archive containing the CSV file of UK postcodes.
+_POSTCODES_URL_: The URL of the ZIP archive containing the CSV file of UK postcodes.
 If these assumptions do not hold true for your application, you will need to modify the script accordingly.
+
 ---
 
 # Postcode Controller
